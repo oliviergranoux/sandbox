@@ -3,3 +3,7 @@ theme: jekyll-theme-architect
 title: croix 74
 description: site sur les croix, oratoires, ... en Haute-Savoie
 show_downloads: false
+
+navbar-links:
+  C:
+    - La Clusaz: "clusaz"
