@@ -17,15 +17,11 @@ En haut du talus du carrefour de la gare routière, croix de fer avec christ de 
 
 Reconstruite. Le clocher est audacieux.
 
-A l'entrée, niche oratoire récente (photo
-
-  
+A l'entrée, **niche oratoire** récente (photo
 
 *  **cimetière de La Clusaz** (1050 m, IGN)
 
-  
-
 Le cimetière, implaté dans une forte pente, ne possède pas de croix paroissiale.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIwNzg0ODJdfQ==
+eyJoaXN0b3J5IjpbLTIxMTQyNjM4MjZdfQ==
 -->
