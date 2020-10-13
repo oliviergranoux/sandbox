@@ -5,5 +5,4 @@ description: site sur les croix, oratoires, ... en Haute-Savoie
 show_downloads: false
 
 navbar-links:
-  C:
-    - La Clusaz: "clusaz"
+  La Clusaz: "clusaz"
