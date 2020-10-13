@@ -2,7 +2,4 @@ remote_theme:  just-the-docs
 
 title: croix 74
 description: site sur les croix, oratoires, ... en Haute-Savoie
-show_downloads: false
 
-navbar-links:
-  La Clusaz: "clusaz"
